@@ -1,0 +1,8 @@
+{
+  "name": "Factory Liquidation Inventory AI",
+  "description": "An AI-powered application to help inventory and price items for factory liquidation using camera, audio, and text inputs. It identifies equipment, suggests pricing based on web searches, and tracks total liquidation value.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
